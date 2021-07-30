@@ -16,5 +16,8 @@ In case if the "US_Accidents_EDA(ori).ipynb" file is not opening [click here](ht
 ## Resources used -
 *Python Libraries* : Pandas, Numpy, Matplolib, Seaborn and Plotly.
 
-*Datasets* : US Accidents dataset - https://www.kaggle.com/sobhanmoosavi/us-accidents
-             US States Dataset - https://www.kaggle.com/giodev11/usstates-dataset
+*Datasets* : 
+* US Accidents dataset - https://www.kaggle.com/sobhanmoosavi/us-accidents
+* US States Dataset - https://www.kaggle.com/giodev11/usstates-dataset
+
+*Platform used for execution* : Google colab
