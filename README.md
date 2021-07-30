@@ -10,8 +10,11 @@ In case if the "US_Accidents_EDA(ori).ipynb" file is not opening [click here](ht
        - At what time do accidents occur most?
        - About the locations of the accidents.
        - What was the severity level of accidents? And the impact on traffic flow.
-       - Different factors to consider during the accidents (like presence of traffic signal, junction etc.) and also some natural factors (like temperature, period of day etc.).
+       - Different factors to consider during the accidents (like presence of traffic signal, junction etc.) 
+       and also some natural factors (like temperature, period of day etc.).
  
 ## Resources used -
 *Python Libraries* : Pandas, Numpy, Matplolib, Seaborn and Plotly.
-*Datasets* : US Accidents - https://www.kaggle.com/sobhanmoosavi/us-accidents
+
+*Datasets* : US Accidents dataset - https://www.kaggle.com/sobhanmoosavi/us-accidents
+             US States Dataset - https://www.kaggle.com/giodev11/usstates-dataset
