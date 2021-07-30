@@ -4,5 +4,6 @@ In case if the "US_Accidents_EDA(ori).ipynb" file is not opening [click here](ht
 ### Workdone - Quick overview
 
 - Collected the data from Kaggle, cleaned and handled all missing values.
-- Gathered some insights like-
+- Gathered some insights like -
+
        - What are the states and cities with most and least number of accidents?
