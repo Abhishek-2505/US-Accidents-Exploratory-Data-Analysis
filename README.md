@@ -7,3 +7,6 @@ In case if the "US_Accidents_EDA(ori).ipynb" file is not opening [click here](ht
 - Gathered some insights like -
 
        - What are the states and cities with most and least number of accidents?
+       - At what time do accidents occur most?
+       - About the locations of the accidents.
+       - What was the severity level of accidents? And the impact on traffic flow
