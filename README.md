@@ -118,9 +118,27 @@ Let's analyze about presence of some external factors during the accidents.
 
 Around 15.61% of accidents took place in the presence of traffic signal. There were only 9.5% of accidents which took place in junctions and 7.5% in presence of crossing. And only 1.08% of accidents took place in the presence of amenity.
 
+#### Some natural factors to consider
+
+In this section we will analyze about some natural factors like period of day, weather condition and temperature during the accidents.
+
+##### Period of day
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/period%20of%20day.png)
 
+Out of all the accidents recorded 66.78% took place in day while remaining (33.22%) in night.
+
+##### Weather condition 
+
+There are around 129 different weather conditions during the accidents. We will plot only top 10 weather condtions during the accidents.
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/weather%20condition.png)
 
+Top 5 weather conditions during the accidents were 'Flair(23.83%)', 'Clear(17.59%)', 'Mostly cloudy(13.61%)', 'Partly cloudy(9.48%)' and 'Cloudy(8.64%)'.
+
+##### Temperature distribution
+
+Temperature distribution looks like
+
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/temperature%20distribution.png)
+
+We can say that winter is the most affecting season for the accidents as 64.10% of accidents took place in that season. And this reason for rate of increase in the accidents in year-end compared to other months.
 
