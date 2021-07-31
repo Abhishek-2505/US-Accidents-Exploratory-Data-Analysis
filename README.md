@@ -28,6 +28,10 @@ After collecting the data, first thing need to be done is data cleaning. Here ar
 * Deleted unwanted columns.
 * Handled all the missing values.
 
+Missing values plot :
+
+![Missing data heatmap](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/missing%20values%20heatmap.png)
+
+
 ## Insights gathered...
 
-![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/missing%20values%20heatmap.png)
