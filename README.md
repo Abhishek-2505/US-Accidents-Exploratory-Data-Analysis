@@ -38,8 +38,9 @@ Missing values plot :
 ## Insights gathered...
 
 ### What are the states and cities with more number of accidents?
+In this section we will analyze about the states and cities.
 
-This analysis contains accident records from all the states of USA excluding Alaska and Hawaii.
+There are 51 states in USA but this data contains accident records of only 49 states. This analysis does not contain Alaska and Hawaii states.
 
 Let's plot the statewise distribution of the accidents.
 ![Statewise distribution plot](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/newplot.png)
