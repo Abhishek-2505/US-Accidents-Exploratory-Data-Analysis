@@ -62,16 +62,19 @@ We came to know about the statewise distribution of the accidents and also citie
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/yearly%20ditribution%20of%20accidents.png)
 Above plot shows the yearly distribution of the accidents from the year 2016 to 2020. This plot shows exponential growth in the rate of accidents from 2016 to 2020. But before making any conclusions it is better to know about the monthly distribution of these years.
 
-Monthly distribution for the years 2016,2017,2018,2019 and 2020 looks like
+Monthly distribution for the years 2016, 2017, 2018, 2019 and 2020 looks like
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/monthly%20ditribution%20of%20the%20years%202016-20.png)
 
 From this analysis we came to know that lot of data for the year 2016 is missing. 
 So for yearly analysis it is better to consider from 2017 to 2020. The rate of increase in the accidents from 2017 to 2020 is 37.8%.
 
-
+Now let's analyze about the daywise distribution of the accidents i.e which day has recorded more number of accidents and about the rate of growth in accidents from weekdays to weekends.
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/daywise%20distribution.png)
+The rate of accidents compared to weekdays decreases by 59.25% during the weekends.
 
+Ok that's good! What about hourly distribution? Let's analyze it.
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/hourly%20ditribution.png)
+The rate of accidents increase from 5AM to 8AM and 2PM to 5PM exponentially while decreases from 6PM to 3AM gradually.
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/locations.png)
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/location%20heatmap.png)
