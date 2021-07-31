@@ -79,16 +79,44 @@ Ok that's good! What about hourly distribution? Let's analyze it.
 
 The rate of accidents increase from 5AM to 8AM and 2PM to 5PM exponentially while decreases from 6PM to 3AM gradually.
 
+### Locations of the accidents
+
+Let's plot the scatter plot for the locations of the accidents.
+
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/locations.png)
-![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/location%20heatmap.png)
+
+The number of accidents in the coastal,estern and western regions is higher compared to the middle, southern and northern region of the country.
+<!-- ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/location%20heatmap.png) -->
+
+### Severity of the accidents and impact on traffic flow
+
+#### Severity of the accidents
+
+Here severity of the accidents says about the impact on flow of traffic by the accidents. It ranges between 1 to 4 where 1 indicates least impact and 4 indicates most impact.
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/severity%20distribution.png)
 
+Out of all the accidents only 0.98% of accidents are of sverity level 1(least impacted), 73.25% are of severity level 2, 21.65% are of severity level 3 and 4.09% are of secerity level 4(most impacted).
+
+### Impact on flow of traffic - Total duration
+
+The distribution looks like
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/accident%20duration.png)
 
-![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/taffic%20signal.png)
+Around 23% of accidents had an impact of 29 minutes on traffic flow, followed by around 13% of accidents of 6 hours.
+
+### Different factors to consider during the accidents
+
+Let's analyze about presence of some external factors during the accidents.
+
+#### Traffic signal & Amenity
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/taffic%20signal.png) ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/amenity.png)
+
+#### Crossing & Juction
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/crossing-junction.png)
+
+Around 15.61% of accidents took place in the presence of traffic signal. There were only 9.5% of accidents which took place in junctions and 7.5% in presence of crossing. And only 1.08% of accidents took place in the presence of amenity.
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/period%20of%20day.png)
 
