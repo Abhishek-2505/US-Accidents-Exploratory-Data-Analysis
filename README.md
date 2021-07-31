@@ -26,11 +26,13 @@ In case if the "US_Accidents_EDA(ori).ipynb" file is not opening [click here](ht
 After collecting the data, first thing need to be done is data cleaning. Here are some steps taken to clean the data.
 * Converted datatype of the some columns which were not in proper format. 
 * Deleted unwanted columns.
-* Handled all the missing values.
 
 Missing values plot :
 
 ![Missing data heatmap](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/missing%20values%20heatmap.png)
+
+* Handled all the missing values.
+
 
 
 ## Insights gathered...
