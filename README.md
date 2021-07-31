@@ -37,7 +37,13 @@ Missing values plot :
 
 ## Insights gathered...
 
+### What are the states and cities with more number of accidents?
+
+This analysis contains accident records from all the states of USA excluding Alaska and Hawaii.
+
+Let's plot the statewise distribution of the accidents.
 ![Statewise distribution plot](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/newplot.png)
+California is the state with most number of accidents which recorded 25.14% of accidents while South Dakota recorded 0.007% of accidents which is the least one.
 
 ![Top 10 cities by accident](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/top%2010%20cities%20by%20accidents.png)
 
