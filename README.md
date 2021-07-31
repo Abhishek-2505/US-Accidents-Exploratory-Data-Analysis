@@ -54,6 +54,10 @@ Los Angeles is the city most number of accidents(2.35%) and Marble stands as lea
 And also one thing to conider is 3668 cities recorded less than 5 accidents in those cities 1306 recorded only 1 accident in 4 years. 
 This seems unusual, we may not have all the records from these cities.
 
+We came to know about the statewise distribution of the accidents and also cities with most and least number of accidents. But what about the time? That is at what time most of the accidents took place. For getting that answer let's analyze about time.
+### At what time do accidents occur most?
+
+
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/yearly%20ditribution%20of%20accidents.png)
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/monthly%20ditribution%20of%20the%20years%202016-20.png)
