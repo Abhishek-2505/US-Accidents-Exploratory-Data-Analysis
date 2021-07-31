@@ -69,6 +69,7 @@ From this analysis we came to know that lot of data for the year 2016 is missing
 So for yearly analysis it is better to consider from 2017 to 2020. The rate of increase in the accidents from 2017 to 2020 is 37.8%.
 
 Now let's analyze about the daywise distribution of the accidents i.e which day has recorded more number of accidents and about the rate of growth in accidents from weekdays to weekends.
+
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/daywise%20distribution.png)
 
 The rate of accidents compared to weekdays decreases by 59.25% during the weekends.
