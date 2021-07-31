@@ -70,10 +70,12 @@ So for yearly analysis it is better to consider from 2017 to 2020. The rate of i
 
 Now let's analyze about the daywise distribution of the accidents i.e which day has recorded more number of accidents and about the rate of growth in accidents from weekdays to weekends.
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/daywise%20distribution.png)
+
 The rate of accidents compared to weekdays decreases by 59.25% during the weekends.
 
 Ok that's good! What about hourly distribution? Let's analyze it.
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/hourly%20ditribution.png)
+
 The rate of accidents increase from 5AM to 8AM and 2PM to 5PM exponentially while decreases from 6PM to 3AM gradually.
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/locations.png)
