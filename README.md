@@ -46,7 +46,13 @@ Let's plot the statewise distribution of the accidents.
 ![Statewise distribution plot](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/newplot.png)
 California is the state with most number of accidents which recorded 25.14% of accidents while South Dakota recorded 0.007% of accidents which is the least one.
 
+Now let's analyze about the cities.
 ![Top 10 cities by accident](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/top%2010%20cities%20by%20accidents.png)
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/city%20vs%20no%20of%20accidents.png)
+
+Los Angeles is the city most number of accidents(2.35%) and Marble stands as least one with 0.000034% of accidents.
+And also one thing to conider is 3668 cities recorded less than 5 accidents in those cities 1306 recorded only 1 accident in 4 years. 
+This seems unusual, we may not have all the records from these cities.
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/yearly%20ditribution%20of%20accidents.png)
 
