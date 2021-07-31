@@ -37,3 +37,31 @@ Missing values plot :
 
 ## Insights gathered...
 
+![Statewise distribution plot](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/newplot.png)
+
+![Top 10 cities by accident](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/top%2010%20cities%20by%20accidents.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/yearly%20ditribution%20of%20accidents.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/monthly%20ditribution%20of%20the%20years%202016-20.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/daywise%20distribution.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/hourly%20ditribution.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/location%20heatmap.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/severity%20distribution.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/accident%20duration.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/taffic%20signal.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/crossing-junction.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/period%20of%20day.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/weather%20condition.png)
+
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/temperature%20distribution.png)
+
