@@ -55,12 +55,19 @@ And also one thing to conider is 3668 cities recorded less than 5 accidents in t
 This seems unusual, we may not have all the records from these cities.
 
 We came to know about the statewise distribution of the accidents and also cities with most and least number of accidents. But what about the time? That is at what time most of the accidents took place. For getting that answer let's analyze about time.
+
+
 ### At what time do accidents occur most?
 
-
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/yearly%20ditribution%20of%20accidents.png)
+Above plot shows the yearly distribution of the accidents from the year 2016 to 2020. This plot shows exponential growth in the rate of accidents from 2016 to 2020. But before making any conclusions it is better to know about the monthly distribution of these years.
 
+Monthly distribution for the years 2016,2017,2018,2019 and 2020 looks like
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/monthly%20ditribution%20of%20the%20years%202016-20.png)
+
+From this analysis we came to know that lot of data for the year 2016 is missing. 
+So for yearly analysis it is better to consider from 2017 to 2020. The rate of increase in the accidents from 2017 to 2020 is 37.8%.
+
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/daywise%20distribution.png)
 
