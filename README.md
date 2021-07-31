@@ -143,6 +143,6 @@ Temperature distribution looks like
 We can say that winter is the most affecting season for the accidents as 64.10% of accidents took place in that season. And this reason for rate of increase in the accidents in year-end compared to other months.
 
 
-By this we come to an end of the data analysis.
+By this we come to an end of the analysis.
 
 Thank you...
