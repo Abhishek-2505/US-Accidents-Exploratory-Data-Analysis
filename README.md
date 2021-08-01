@@ -1,5 +1,5 @@
 # US Accidents EDA : Project Overview
-In case if the "US_Accidents_EDA(ori).ipynb" file is not opening [click here](https://colab.research.google.com/drive/1QSCa9lT2yHZGg9IL2CWxV1TT6T-pMnVk?usp=sharing).
+In case if the "US Accidents - Exploratory Data Analysis.ipynb" file is not opening [click here](https://colab.research.google.com/drive/1QSCa9lT2yHZGg9IL2CWxV1TT6T-pMnVk?usp=sharing).
 
 Recommendation to view this page - *use default(white) theme for better experience(plots may not be visible properly in dark theme).*
 ## Workdone - Quick overview
@@ -49,7 +49,7 @@ California is the state with most number of accidents which recorded 25.14% of a
 
 Now let's analyze about the cities.
 
-![Top 10 cities by accident](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/top%2010%20cities%20by%20accidents.png) ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/city%20vs%20no%20of%20accidents.png)
+![Top 10 cities by accident](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/T10%20cities.png)
 
 Los Angeles is the city most number of accidents(2.35%) and Marble stands as least one with 0.000034% of accidents.
 And also one thing to conider is 3668 cities recorded less than 5 accidents in those cities 1306 recorded only 1 accident in 4 years. 
@@ -139,7 +139,7 @@ Top 5 weather conditions during the accidents were 'Flair(23.83%)', 'Clear(17.59
 
 Temperature distribution looks like
 
-![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/temperature%20distribution.png)
+![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/temp%20dist.png)
 
 We can say that winter is the most affecting season for the accidents as 64.10% of accidents took place in that season. And this reason for rate of increase in the accidents in year-end compared to other months.
 
