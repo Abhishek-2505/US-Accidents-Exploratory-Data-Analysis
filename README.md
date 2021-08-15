@@ -141,7 +141,7 @@ Temperature distribution looks like
 
 ![](https://github.com/Abhishek-2505/US-Accidents-Exploratory-Data-Analysis/blob/main/images/temp%20dist.png)
 
-We can say that winter is the most affecting season for the accidents as 64.10% of accidents took place in that season. And this reason for rate of increase in the accidents in year-end compared to other months.
+We can say that winter is the most affecting season for the accidents as 64.10% of accidents took place in that season. And this is the reason for rate of increase in the accidents in year-end compared to other months.
 
 
 By this we come to an end of the analysis.
